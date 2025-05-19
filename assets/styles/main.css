@@ -1,0 +1,17 @@
+/* Existing subscribe button styles here */
+
+/* Dark Theme Styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-mode .subscribe-button {
+  background-color: #444;
+  color: #fff;
+}
+
+.dark-mode .subscribe-button:hover {
+  background-color: #222;
+}
+
