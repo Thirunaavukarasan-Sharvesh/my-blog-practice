@@ -1,3 +1,4 @@
+# CI workflow updated on 2025-05-20 to fix python version matrix
 name: Python CI
 
 on: [push, pull_request]
